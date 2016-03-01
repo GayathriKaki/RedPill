@@ -77,7 +77,7 @@ namespace RedPill
  
          public TriangleType WhatShapeIsThis(int a, int b, int c)
          { 
-             return TriangleService.GetType(a, b, c); 
+             return TriangleService.GetTriaType(a, b, c); 
          } 
  
  

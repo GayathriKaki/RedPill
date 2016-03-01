@@ -16,3 +16,4 @@ D:\gayathri\projects\RedPill\RedPill\bin\Microsoft.ApplicationInsights.xml
 D:\gayathri\projects\RedPill\RedPill\obj\Debug\RedPill.dll
 D:\gayathri\projects\RedPill\RedPill\obj\Debug\RedPill.pdb
 D:\gayathri\projects\RedPill\RedPill\bin\RedPill.dll.config
+D:\gayathri\projects\RedPill\RedPill\obj\Debug\RedPill.csprojResolveAssemblyReference.cache
