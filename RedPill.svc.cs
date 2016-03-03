@@ -57,7 +57,7 @@ namespace RedPill
  
          public Guid WhatIsYourToken()
          { 
-             return new Guid("64bcdf73-3359-41a3-ac70-416e4ba330d0"); 
+             return new Guid("796d0cc8-953c-494b-8b90-f074e70c7584"); 
          } 
  
  
