@@ -18,18 +18,18 @@ namespace RedPill
  
          [OperationContract] 
          [WebGet(UriTemplate = "WhatIsYourToken")] 
-         Guid WhatIsYourToken(); 
+         Guid Token(); 
  
  
          [FaultContract(typeof(ArgumentOutOfRangeException))] 
          [OperationContract] 
          [WebGet(UriTemplate = "FibonacciNumber/{n}")] 
-         long FibonacciNumber(long n); 
+         long Fibonacci(long n); 
  
  
          [OperationContract] 
          [WebGet] 
-         TriangleType WhatShapeIsThis(int a, int b, int c); 
+         TriangleType TraingleType(int a, int b, int c); 
  
  
          [OperationContract] 

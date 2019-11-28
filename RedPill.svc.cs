@@ -55,13 +55,13 @@ namespace RedPill
          } 
  
  
-         public Guid WhatIsYourToken()
+         public Guid Token()
          { 
-             return new Guid("796d0cc8-953c-494b-8b90-f074e70c7584"); 
+             return new Guid("00000000-0000-0000-0000-000000000000"); 
          } 
  
  
-         public long FibonacciNumber(long n)
+         public long Fibonacci(long n)
          { 
              try 
              { 
@@ -75,7 +75,7 @@ namespace RedPill
          } 
  
  
-         public TriangleType WhatShapeIsThis(int a, int b, int c)
+         public TriangleType TraingleType(int a, int b, int c)
          { 
              return TriangleService.GetTriaType(a, b, c); 
          } 
